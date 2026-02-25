@@ -1,0 +1,31 @@
+# Learning C# & Object-Oriented Programming (OOP)
+
+Dự án này lưu trữ lộ trình học tập C# của tôi, tập trung vào việc áp dụng 4 trụ cột của OOP vào các bài toán thực tế.
+
+## 💡 Kiến thức đã nắm vững
+
+### 1. Encapsulation (Tính đóng gói)
+- Sử dụng **Access Modifiers** (`private`, `public`, `protected`) để bảo vệ trạng thái nội bộ.
+- Triển khai **Properties** với logic kiểm tra dữ liệu (validation) thay vì dùng fields trực tiếp.
+- *Ví dụ:* Bảo vệ `_id` của sinh viên không bị thay đổi tùy tiện từ bên ngoài.
+
+### 2. Inheritance (Tính kế thừa)
+- Tái sử dụng mã nguồn bằng cách sử dụng mối quan hệ **is-a**.
+- Sử dụng từ khóa `base` để gọi constructor và phương thức của lớp cha.
+- Phân biệt giữa **Method Hiding** (`new`) và **Method Overriding** (`override`).
+
+### 3. Polymorphism (Tính đa hình)
+- **Static Polymorphism:** Method Overloading (Nạp chồng).
+- **Dynamic Polymorphism:** Method Overriding kết hợp với `virtual`.
+- Ép kiểu an toàn với toán tử `is` và `as`.
+
+### 4. Abstraction (Tính trừu tượng) & Interface
+- Sử dụng **Abstract Class** cho các đối tượng cùng nguồn gốc.
+- Sử dụng **Interface** để định nghĩa các "hợp đồng" hành động (can-do), giúp hệ thống linh hoạt (Loose Coupling).
+
+## 🛠 Cấu trúc dự án
+- `week1/`: Các bài tập cơ bản về biến, kiểu dữ liệu và switch expression.
+- `oop-examples/`: Các ví dụ thực tế về quản lý sinh viên, nhân sự áp dụng 4 trụ cột OOP.
+
+---
+*Dự án được cập nhật liên tục trong quá trình học tập.*

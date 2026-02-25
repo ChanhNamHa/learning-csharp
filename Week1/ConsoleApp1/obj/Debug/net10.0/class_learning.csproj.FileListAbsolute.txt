@@ -1,0 +1,14 @@
+D:\Learn C#\Traning\Week1\ConsoleApp1\bin\Debug\net10.0\class_learning.exe
+D:\Learn C#\Traning\Week1\ConsoleApp1\bin\Debug\net10.0\class_learning.deps.json
+D:\Learn C#\Traning\Week1\ConsoleApp1\bin\Debug\net10.0\class_learning.runtimeconfig.json
+D:\Learn C#\Traning\Week1\ConsoleApp1\bin\Debug\net10.0\class_learning.dll
+D:\Learn C#\Traning\Week1\ConsoleApp1\bin\Debug\net10.0\class_learning.pdb
+D:\Learn C#\Traning\Week1\ConsoleApp1\obj\Debug\net10.0\class_learning.GeneratedMSBuildEditorConfig.editorconfig
+D:\Learn C#\Traning\Week1\ConsoleApp1\obj\Debug\net10.0\class_learning.AssemblyInfoInputs.cache
+D:\Learn C#\Traning\Week1\ConsoleApp1\obj\Debug\net10.0\class_learning.AssemblyInfo.cs
+D:\Learn C#\Traning\Week1\ConsoleApp1\obj\Debug\net10.0\class_learning.csproj.CoreCompileInputs.cache
+D:\Learn C#\Traning\Week1\ConsoleApp1\obj\Debug\net10.0\class_learning.dll
+D:\Learn C#\Traning\Week1\ConsoleApp1\obj\Debug\net10.0\refint\class_learning.dll
+D:\Learn C#\Traning\Week1\ConsoleApp1\obj\Debug\net10.0\class_learning.pdb
+D:\Learn C#\Traning\Week1\ConsoleApp1\obj\Debug\net10.0\class_learning.genruntimeconfig.cache
+D:\Learn C#\Traning\Week1\ConsoleApp1\obj\Debug\net10.0\ref\class_learning.dll
