@@ -1,0 +1,32 @@
+[
+  {
+    "Id": 1,
+    "TaskName": "Hoc C# Basic Architecture",
+    "IsCompleted": false
+  },
+  {
+    "Id": 2,
+    "TaskName": "Hoc C# Basic Architecture",
+    "IsCompleted": false
+  },
+  {
+    "Id": 3,
+    "TaskName": "Hoc C# Basic Architecture",
+    "IsCompleted": false
+  },
+  {
+    "Id": 4,
+    "TaskName": "Hoc C\u002B\u002B Basic Architecture",
+    "IsCompleted": true
+  },
+  {
+    "Id": 5,
+    "TaskName": "Hoc C# Basic Architecture",
+    "IsCompleted": false
+  },
+  {
+    "Id": 6,
+    "TaskName": "Hoc C\u002B\u002B Basic Architecture",
+    "IsCompleted": true
+  }
+]

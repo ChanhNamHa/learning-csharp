@@ -1,0 +1,15 @@
+D:\Learn C#\Traning\Week1\Practice\obj\Debug\net10.0\Practice.GeneratedMSBuildEditorConfig.editorconfig
+D:\Learn C#\Traning\Week1\Practice\obj\Debug\net10.0\Practice.AssemblyInfoInputs.cache
+D:\Learn C#\Traning\Week1\Practice\obj\Debug\net10.0\Practice.AssemblyInfo.cs
+D:\Learn C#\Traning\Week1\Practice\obj\Debug\net10.0\Practice.csproj.CoreCompileInputs.cache
+D:\Learn C#\Traning\Week1\Practice\obj\Debug\net10.0\Practice.sourcelink.json
+D:\Learn C#\Traning\Week1\Practice\bin\Debug\net10.0\Practice.exe
+D:\Learn C#\Traning\Week1\Practice\bin\Debug\net10.0\Practice.deps.json
+D:\Learn C#\Traning\Week1\Practice\bin\Debug\net10.0\Practice.runtimeconfig.json
+D:\Learn C#\Traning\Week1\Practice\bin\Debug\net10.0\Practice.dll
+D:\Learn C#\Traning\Week1\Practice\bin\Debug\net10.0\Practice.pdb
+D:\Learn C#\Traning\Week1\Practice\obj\Debug\net10.0\Practice.dll
+D:\Learn C#\Traning\Week1\Practice\obj\Debug\net10.0\refint\Practice.dll
+D:\Learn C#\Traning\Week1\Practice\obj\Debug\net10.0\Practice.pdb
+D:\Learn C#\Traning\Week1\Practice\obj\Debug\net10.0\Practice.genruntimeconfig.cache
+D:\Learn C#\Traning\Week1\Practice\obj\Debug\net10.0\ref\Practice.dll
