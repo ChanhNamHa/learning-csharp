@@ -1,0 +1,14 @@
+[
+  {
+    "Id": 1,
+    "Name": "Laptop Dell",
+    "Quantity": 15,
+    "Price": 1500
+  },
+  {
+    "Id": 2,
+    "Name": "Chu\u1ED9t Logitech",
+    "Quantity": 50,
+    "Price": 25
+  }
+]

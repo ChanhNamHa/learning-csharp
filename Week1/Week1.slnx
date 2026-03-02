@@ -4,5 +4,6 @@
     <File Path="OOP.txt" />
   </Folder>
   <Project Path="ConsoleApp1/class_learning.csproj" />
+  <Project Path="MiniProject/MiniProject.csproj" Id="5540f8fe-969d-484c-bfbe-9aab10f82116" />
   <Project Path="Practice/Practice.csproj" Id="0c2bdcbd-b86a-4310-bcb4-d792316fd55f" />
 </Solution>
